@@ -2,9 +2,7 @@
 
 🌱 I’m currently learning advanced backend engineering concepts, system design, generative AI, and cloud infrastructure.  
 👯 I’m looking to collaborate on open-source tools that improve developer workflows or tackle social good challenges.  
-📫 How to reach me: [Mohamed Sanoko - LinkedIn Profile](https://www.linkedin.com/in/mohamed-sanoko-96445a272/) or msanoko5@gmail.com 
-😄 Pronouns: He/Him  
-⚡ Fun fact: I ran my first half-marathon last fall and am training for a full marathon this year!
+📫 How to reach me: [Mohamed Sanoko - LinkedIn Profile](https://www.linkedin.com/in/mohamed-sanoko-96445a272/).
 
 ## 🛠 Skills
 **Languages:**  
